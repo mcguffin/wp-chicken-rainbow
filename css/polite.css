@@ -1,0 +1,4 @@
+/* Be polite. Don't bother people with code. */
+pre.rainbow {
+	display:none !important;
+}
